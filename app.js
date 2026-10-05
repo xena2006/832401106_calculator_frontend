@@ -1,5 +1,5 @@
 // 👉 这里后续部署的时候要改成你的后端公网地址，本地测试用localhost就可以
-const API_BASE_URL = "https://cinch-ecologist-subscribe.ngrok-free.dev";
+const baseUrl = "https://photographers-sydney-tap-meetings.trycloudflare.com";
 
 // 页面元素
 const display = document.getElementById('display');
